@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>AWS Lambda Wasm PoC1</title>
+        <title>AWS Lambda Wasm PoC - Welcome</title>
         <link rel="icon" type="image/png" href="/aws-lambda-wasm-runtime/favicon.png" sizes="16x16" />
       </Head>
 
